@@ -36,42 +36,6 @@
     }
   },
   {
-    "date": "2026-07-03",
-    "verdict": "BROAD",
-    "sectors_over_30": 8,
-    "breadth": {
-      "XLK": 62.0,
-      "XLRE": 58.0,
-      "XLF": 53.0,
-      "XLV": 51.0,
-      "XLP": 47.0,
-      "XLI": 42.0,
-      "XLB": 31.0,
-      "XLY": 30.0,
-      "XLE": 19.0,
-      "XLC": 13.0,
-      "XLU": 3.0
-    }
-  },
-  {
-    "date": "2026-07-11",
-    "verdict": "BROAD",
-    "sectors_over_30": 8,
-    "breadth": {
-      "XLF": 64.0,
-      "XLV": 59.0,
-      "XLRE": 55.0,
-      "XLK": 55.0,
-      "XLP": 47.0,
-      "XLI": 46.0,
-      "XLB": 42.0,
-      "XLY": 38.0,
-      "XLU": 26.0,
-      "XLE": 19.0,
-      "XLC": 13.0
-    }
-  },
-  {
     "date": "2026-07-13",
     "verdict": "BROAD",
     "sectors_over_30": 9,
@@ -109,24 +73,6 @@
   },
   {
     "date": "2026-07-17",
-    "verdict": "BROAD",
-    "sectors_over_30": 9,
-    "breadth": {
-      "XLF": 80.0,
-      "XLV": 71.0,
-      "XLRE": 65.0,
-      "XLP": 59.0,
-      "XLI": 57.0,
-      "XLU": 52.0,
-      "XLY": 51.0,
-      "XLB": 50.0,
-      "XLK": 49.0,
-      "XLC": 22.0,
-      "XLE": 19.0
-    }
-  },
-  {
-    "date": "2026-07-20",
     "verdict": "BROAD",
     "sectors_over_30": 9,
     "breadth": {
