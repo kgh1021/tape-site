@@ -108,24 +108,6 @@
     }
   },
   {
-    "date": "2026-07-19",
-    "verdict": "BROAD",
-    "sectors_over_30": 9,
-    "breadth": {
-      "XLF": 80.0,
-      "XLV": 71.0,
-      "XLRE": 65.0,
-      "XLP": 59.0,
-      "XLI": 57.0,
-      "XLU": 52.0,
-      "XLY": 51.0,
-      "XLB": 50.0,
-      "XLK": 49.0,
-      "XLC": 22.0,
-      "XLE": 19.0
-    }
-  },
-  {
     "date": "2026-07-20",
     "verdict": "BROAD",
     "sectors_over_30": 9,
