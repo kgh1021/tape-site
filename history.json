@@ -506,5 +506,24 @@
       "XLU": 10.0
     },
     "backfilled": false
+  },
+  {
+    "date": "2026-08-20",
+    "verdict": "BROAD",
+    "sectors_over_30": 10,
+    "breadth": {
+      "XLF": 86.0,
+      "XLV": 81.0,
+      "XLE": 67.0,
+      "XLI": 59.0,
+      "XLP": 56.0,
+      "XLC": 50.0,
+      "XLB": 48.0,
+      "XLY": 47.0,
+      "XLK": 45.0,
+      "XLRE": 37.0,
+      "XLU": 13.0
+    },
+    "backfilled": false
   }
 ]
