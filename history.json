@@ -1494,5 +1494,24 @@
       "XLK": 39.0
     },
     "backfilled": false
+  },
+  {
+    "date": "2026-11-19",
+    "verdict": "BROAD",
+    "sectors_over_30": 11,
+    "breadth": {
+      "XLP": 88.0,
+      "XLV": 88.0,
+      "XLU": 87.0,
+      "XLY": 77.0,
+      "XLB": 71.0,
+      "XLI": 67.0,
+      "XLRE": 67.0,
+      "XLF": 58.0,
+      "XLE": 57.0,
+      "XLC": 50.0,
+      "XLK": 41.0
+    },
+    "backfilled": false
   }
 ]
